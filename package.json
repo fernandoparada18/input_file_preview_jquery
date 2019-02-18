@@ -1,0 +1,22 @@
+{
+  "name": "input_file_preview_jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/browser-sync/dist/bin.js start -s -w -f \"**/*.*\" --ignore \"node_modules\" --no-open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoparada18/input_file_preview_jquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandoparada18/input_file_preview_jquery/issues"
+  },
+  "homepage": "https://github.com/fernandoparada18/input_file_preview_jquery#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
